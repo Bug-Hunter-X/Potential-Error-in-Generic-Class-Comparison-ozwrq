@@ -1,0 +1,1 @@
+This repository contains a simple Scala program demonstrating a potential error when comparing objects of generic type T within a generic class. The bug.scala file contains the erroneous code, and the bugSolution.scala file offers a corrected version.
